@@ -56,4 +56,4 @@ This project is aimed at analyzing the data from the SailGP event in Auckland 20
 
 ## Contact
 
-For any questions or inquiries, please contact [drey@example.com], [sbabbage@example.com].
+For any questions or inquiries, please contact [drey@sailgp.com], [sbabbage@sailgp.com].
