@@ -1,0 +1,13 @@
+jupyter
+pyarrow
+pandas
+numpy
+matplotlib
+scipy
+beautifulsoup4
+lxml
+bokeh
+plotly
+xgboost
+shap
+geopy
