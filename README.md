@@ -23,8 +23,7 @@ This project is aimed at analyzing the data from the SailGP event in Auckland 20
 
 1. Clone the repository:
     ```sh
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/Cian-Byrne/SGP
     ```
 
 2. Install the required libraries:
@@ -56,4 +55,4 @@ This project is aimed at analyzing the data from the SailGP event in Auckland 20
 
 ## Contact
 
-For any questions or inquiries, please contact [drey@sailgp.com], [sbabbage@sailgp.com].
+For any questions or inquiries, please contact [cianbyrne49@gmail.com].
