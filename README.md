@@ -29,7 +29,7 @@ This project is aimed at analyzing the data from the SailGP event in Auckland 20
 
 2. Install the required libraries:
     ```sh
-    pip install pandas numpy bokeh matplotlib scipy etc....
+    pip install -r requirements.txt
     ```
 
 3. Open the Jupyter Notebook:
